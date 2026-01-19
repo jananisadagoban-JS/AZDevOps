@@ -8,3 +8,4 @@ My To-Do-list
 
 Second-half session
 - Need to check the notes
+- Complete the session
