@@ -1,3 +1,4 @@
+
 My To-Do-list
 
 - Day 1 Session
@@ -5,3 +6,6 @@ My To-Do-list
 - Lab Work
 - Lunch Break
 - Recap
+
+Second half of the session
+End of the day
